@@ -10,11 +10,11 @@
 
 | Project | Stack | Agent Used |
 |---|---|---|
-| [Portfolio Landing Page](https://github.com/abhig) | HTML · Vanilla CSS · JS | Google Antigravity (AGY) |
-| [SaaS Marketing Site](https://github.com/abhig) | Next.js · Tailwind | Antigravity + Gemini 2.5 Pro |
-| [Component Library Showcase](https://github.com/abhig) | Vite · Vanilla CSS · Web Components | Antigravity Multi-Agent |
+| [Portfolio Landing Page](https://github.com/abhighna99/portfolio-landing) | HTML · Vanilla CSS · JS | Google Antigravity (AGY) |
+| [SaaS Marketing Site](https://github.com/abhighna99/saas-marketing-site) | Next.js · Tailwind | Antigravity + Gemini 2.5 Pro |
+| [Component Library Showcase](https://github.com/abhighna99/component-library-showcase) | Vite · Vanilla CSS · Web Components | Antigravity Multi-Agent |
 
-> 🚧 *Links will update as repos go live — each was built in a single session using an agentic loop.*
+> 🚧 *Repos are being cleaned up and published — built in single agentic sessions.*
 
 ---
 
