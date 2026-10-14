@@ -11,10 +11,9 @@
 | Project | Stack | Agent Used |
 |---|---|---|
 | [Portfolio Landing Page](https://github.com/abhighna99/portfolio-landing) | HTML · Vanilla CSS · JS | Google Antigravity (AGY) |
-| [SaaS Marketing Site](https://github.com/abhighna99/saas-marketing-site) | Next.js · Tailwind | Antigravity + Gemini 2.5 Pro |
-| [Component Library Showcase](https://github.com/abhighna99/component-library-showcase) | Vite · Vanilla CSS · Web Components | Antigravity Multi-Agent |
+| [FlowMind AI — SaaS Marketing Site](https://github.com/abhighna99/saas-marketing-site) | HTML · Vanilla CSS · JS | Antigravity + Gemini 2.5 Pro |
+| [NebulUI — Component Library Showcase](https://github.com/abhighna99/component-library-showcase) | HTML · Vanilla CSS · Web Components | Antigravity Multi-Agent |
 
-> 🚧 *Repos are being cleaned up and published — built in single agentic sessions.*
 
 ---
 
